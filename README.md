@@ -1,0 +1,2 @@
+# Green-Html5-css-js-website
+Green is a repository website created by shorouq. Html5, Css and Js are used for that. Home: contains a some care tips for plants and summery of recent blogs. Blog: includes blogs talks about plants and gardening.  Gallery: includes pictures of plants. Care Tips: this page includes care tips for each type of plant. About: brief story about Green. Contact: includes contact information.   
