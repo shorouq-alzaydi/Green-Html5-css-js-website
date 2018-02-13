@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'simple-line-icons';
+  src:  url('../fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.2.2');
+  src:  url('../fonts/simple-line-icons/Simple-Line-Icons.eot?#iefix&v=2.2.2') format('embedded-opentype'),
+        url('../fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2') format('truetype'),
+        url('../fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.2.2') format('woff2'),
+        url('../fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.2.2') format('woff'),
+        url('../fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.2.2#simple-line-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.sl-icon-phone,
+.sl-icon-map,
+.sl-icon-arrow-right,
+.sl-icon-envelope-open,
+.sl-icon-envelope-letter,
+.sl-icon-globe-alt,
+.sl-icon-share-alt,
+.sl-icon-like,
+.sl-icon-dislike,
+.sl-icon-heart,
+.sl-icon-info,
+.sl-icon-link,
+.sl-icon-social-twitter,
+.sl-icon-social-facebook,
+.sl-icon-social-instagram,
+.sl-icon-social-gplus,
+.sl-icon-social-dropbox {
+  font-family: 'simple-line-icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.sl-icon-phone:before {
+  content: "\e600";
+}
+.sl-icon-map:before {
+  content: "\e033";
+}
+.sl-icon-location-pin:before {
+  content: "\e096";
+}
+.sl-icon-direction:before {
+  content: "\e042";
+}
+.sl-icon-directions:before {
+  content: "\e041";
+}
+.sl-icon-arrow-right:before {
+  content: "\e606";
+}
+.sl-icon-envelope-open:before {
+  content: "\e01e";
+}
+.sl-icon-globe-alt:before {
+  content: "\e036";
+}
+.sl-icon-like:before {
+  content: "\e068";
+}
+.sl-icon-envelope:before {
+  content: "\e086";
+}
+.sl-icon-heart:before {
+  content: "\e08a";
+}
+.sl-icon-info:before {
+  content: "\e08b";
+}
+.sl-icon-link:before {
+  content: "\e08d";
+}
+.sl-icon-social-twitter:before {
+  content: "\e009";
+}
+.sl-icon-social-facebook:before {
+  content: "\e00b";
+}
+.sl-icon-social-instagram:before {
+  content: "\e609";
+}
+.sl-icon-social-gplus:before {
+  content: "\e60d";
+}
